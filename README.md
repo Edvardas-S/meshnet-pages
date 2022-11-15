@@ -1,4 +1,4 @@
 # meshnet-pages
-Meshnet documentation test
+Meshnet documentation
 
 Github url: https://github.com/Edvardas-S/meshnet-pages
